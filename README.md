@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Gilang Maulana 
 #### Join as junior web programmer.
-![I am UI/UX Designer and Front End Develope](https://www.vectorstock.com/royalty-free-vector/full-stack-developer-working-on-computer-vector-39256845)
+![I am UI/UX Designer and Front End Develope](https://github.com/gilangmaulana1405/gilangmaulana1405/blob/main/Github%20Banner%20Profile.png?raw=true)
 
 I'm Gilang Maulana from Karawang, Indonesia, i learn web programming and i often using laravel 8 framework.
 Now I'm focusing on Front End & Back End Developer, you can check in design portofolio here.
