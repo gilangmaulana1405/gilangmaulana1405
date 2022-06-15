@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Gilang Maulana 
-#### join as junior web programmert.
+#### join as junior web programmer.
 ![I am UI/UX Designer and Front End Develope](https://thumbs.dreamstime.com/z/web-development-isometric-concept-d-developer-people-work-vector-illustration-cartoon-tiny-create-code-programming-language-202176891.jpg)
 
 I'm Gilang Maulana from Karawang, Indonesia, i learn web programming and i often using laravel 8 framework.
@@ -20,7 +20,7 @@ Skills: Laravel 8 / Codeigniter 3 / AJAX Jquery / Bootstrap 5 / PHP / Javascript
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Laravel.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
