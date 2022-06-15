@@ -15,6 +15,8 @@ Skills: Laravel 8 / Codeigniter 3 / AJAX Jquery / Bootstrap 5 / PHP / Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://https://www.instagram.com/gi.ul14/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="mainstagram" width="40" height="40"/> </a> 
+  <a href="https://www.linkedin.com/in/gilang-maulana-4857b5225/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIN" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +31,4 @@ Skills: Laravel 8 / Codeigniter 3 / AJAX Jquery / Bootstrap 5 / PHP / Javascript
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gidion1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmaulana1405&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
