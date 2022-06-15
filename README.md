@@ -20,7 +20,7 @@ Skills: Laravel 8 / Codeigniter 3 / AJAX Jquery / Bootstrap 5 / PHP / Javascript
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FLaravel.svg%2F1200px-Laravel.svg.png&imgrefurl=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FLaravel&tbnid=l6LsZXWdIZkuwM&vet=12ahUKEwi2uLTByK74AhVdidgFHTtmDisQMygAegUIARDMAQ..i&docid=3rWe1OJ13kF9VM&w=1200&h=1248&q=laravel%20logo&ved=2ahUKEwi2uLTByK74AhVdidgFHTtmDisQMygAegUIARDMAQ" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Laravel.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
